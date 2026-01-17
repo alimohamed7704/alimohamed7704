@@ -1,7 +1,7 @@
 # Hi, I'm Ali Mohamed👋
 Computer science student at Ain Shams University with a strong interest in cybersecurity, network security, penetration testing, and building practical projects. I enjoy learning new technologies, solving problems, and improving my skills through hands-on experience, CTFs, and teamwork.
 
-### 🤝 Connect with Me
+### 🤝Connect with me:
 
 <p align="left">
   <a href="mailto:your.alimohamedali7704@gmail.com">
@@ -21,7 +21,7 @@ Computer science student at Ain Shams University with a strong interest in cyber
   </a>
 
 </p>
-</p>
+</br>
 
 ### 🧠Languages:
 
