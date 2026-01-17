@@ -5,10 +5,20 @@ Computer science student at Ain Shams University with a strong interest in cyber
 
 <p align="left">
   <img src="images/C++.png" alt="C++" width="50"/>
+  <img src="images/Java.png" alt="Java" width="50"/>
   <img src="images/python.png" alt="Python" width="50"/>
-  <img src="images/javascript.png" alt="JavaScript" width="50"/>
   <img src="images/html.png" alt="HTML" width="50"/>
   <img src="images/css.png" alt="CSS" width="50"/>
+  <img src="images/javascript.png" alt="JavaScript" width="50"/>
+</p>
+
+## 🛠 Tools
+<p align="left">
+  <img src="images/git.png" alt="Git" width="50"/>
+  <img src="images/linux.png" alt="Linux" width="50"/>
+  <img src="images/Wireshark.png" alt="Wireshark" width="50"/>
+  <img src="images/Nmap.png" alt="NMAP" width="50"/>
+  <img src="images/berp suite.png" alt="berp suite" width="50"/>
 </p>
 <!--
 **alimohamed7704/alimohamed7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
