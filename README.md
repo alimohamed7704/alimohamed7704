@@ -1,24 +1,24 @@
 # Hi, I'm Ali Mohamed👋
 Computer science student at Ain Shams University with a strong interest in cybersecurity, network security, penetration testing, and building practical projects. I enjoy learning new technologies, solving problems, and improving my skills through hands-on experience, CTFs, and teamwork.
 
-### 🧠 Languages
+### 🧠Languages:
 
 <p align="left">
-  <img src="images/C++.png" alt="C++" width="50"/>
-  <img src="images/Java.png" alt="Java" width="50"/>
-  <img src="images/python.png" alt="Python" width="50"/>
-  <img src="images/html.png" alt="HTML" width="50"/>
-  <img src="images/css.png" alt="CSS" width="50"/>
-  <img src="images/javascript.png" alt="JavaScript" width="50"/>
+  <img src="images/C++.png" alt="C++" width="30"/>
+  <img src="images/Java.png" alt="Java" width="30"/>
+  <img src="images/python.png" alt="Python" width="30"/>
+  <img src="images/html.png" alt="HTML" width="30"/>
+  <img src="images/css.png" alt="CSS" width="30"/>
+  <img src="images/javascript.png" alt="JavaScript" width="30"/>
 </p>
 
-### 🛠 Tools
+### 🛠Tools:
 <p align="left">
-  <img src="images/git.png" alt="Git" width="50"/>
-  <img src="images/linux.png" alt="Linux" width="50"/>
-  <img src="images/Wireshark.png" alt="Wireshark" width="50"/>
-  <img src="images/Nmap.png" alt="NMAP" width="50"/>
-  <img src="images/berp suite.png" alt="berp suite" width="50"/>
+  <img src="images/git.png" alt="Git" width="30"/>
+  <img src="images/linux.png" alt="Linux" width="30"/>
+  <img src="images/Wireshark.png" alt="Wireshark" width="30"/>
+  <img src="images/Nmap.png" alt="NMAP" width="30"/>
+  <img src="images/berp suite.png" alt="berp suite" width="30"/>
 </p>
 <!--
 **alimohamed7704/alimohamed7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
