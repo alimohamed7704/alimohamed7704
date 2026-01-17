@@ -4,21 +4,21 @@ Computer science student at Ain Shams University with a strong interest in cyber
 ### 🧠Languages:
 
 <p align="left">
-  <img src="images/C++.png" alt="C++" width="30"/>
-  <img src="images/Java.png" alt="Java" width="30"/>
-  <img src="images/python.png" alt="Python" width="30"/>
-  <img src="images/html.png" alt="HTML" width="30"/>
-  <img src="images/css.png" alt="CSS" width="30"/>
-  <img src="images/javascript.png" alt="JavaScript" width="30"/>
+  <img src="images/C++.png" alt="C++" width="40"/>
+  <img src="images/Java.png" alt="Java" width="40"/>
+  <img src="images/python.png" alt="Python" width="40"/>
+  <img src="images/html.png" alt="HTML" width="40"/>
+  <img src="images/css.png" alt="CSS" width="40"/>
+  <img src="images/javascript.png" alt="JavaScript" width="40"/>
 </p>
 
 ### 🛠Tools:
 <p align="left">
-  <img src="images/git.png" alt="Git" width="30"/>
-  <img src="images/linux.png" alt="Linux" width="30"/>
-  <img src="images/Wireshark.png" alt="Wireshark" width="30"/>
-  <img src="images/Nmap.png" alt="NMAP" width="30"/>
-  <img src="images/berp suite.png" alt="berp suite" width="30"/>
+  <img src="images/git.png" alt="Git" width="40"/>
+  <img src="images/linux.png" alt="Linux" width="40"/>
+  <img src="images/Wireshark.png" alt="Wireshark" width="40"/>
+  <img src="images/Nmap.png" alt="NMAP" width="40"/>
+  <img src="images/berp suite.png" alt="berp suite" width="40"/>
 </p>
 <!--
 **alimohamed7704/alimohamed7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
