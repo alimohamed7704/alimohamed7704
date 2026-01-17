@@ -1,7 +1,15 @@
 # Hi, I'm Ali Mohamed👋
 Computer science student at Ain Shams University with a strong interest in cybersecurity, network security, penetration testing, and building practical projects. I enjoy learning new technologies, solving problems, and improving my skills through hands-on experience, CTFs, and teamwork.
 
+## 🧠 Languages
 
+<p align="left">
+  <img src="images/C++.png" alt="C++" width="50"/>
+  <img src="images/python.png" alt="Python" width="50"/>
+  <img src="images/javascript.png" alt="JavaScript" width="50"/>
+  <img src="images/html.png" alt="HTML" width="50"/>
+  <img src="images/css.png" alt="CSS" width="50"/>
+</p>
 <!--
 **alimohamed7704/alimohamed7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
