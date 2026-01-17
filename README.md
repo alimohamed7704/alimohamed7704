@@ -5,11 +5,11 @@ Computer science student at Ain Shams University with a strong interest in cyber
 
 <p align="left">
   <a href="mailto:your.alimohamedali7704@gmail.com">
-    <img src="images/gmail.png" alt="Email" width="40"/>
+    <img src="images/Gmail.png" alt="Email" width="40"/>
   </a>
   
   <a href="https://www.linkedin.com/in/ali-mohamed-a3532331a/" target="_blank">
-    <img src="images/linkedin.png" alt="LinkedIn" width="40"/>
+    <img src="images/Linkedin.png" alt="LinkedIn" width="40"/>
   </a>
 
   <a href="https://codeforces.com/profile/Ali_Mohamed7704" target="_blank">
@@ -20,6 +20,7 @@ Computer science student at Ain Shams University with a strong interest in cyber
     <img src="images/leet-code.png" alt="leetcode" width="40"/>
   </a>
 
+</p>
 </p>
 
 ### 🧠Languages:
