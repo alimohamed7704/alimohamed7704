@@ -1,7 +1,7 @@
 # Hi, I'm Ali Mohamed👋
 Computer science student at Ain Shams University with a strong interest in cybersecurity, network security, penetration testing, and building practical projects. I enjoy learning new technologies, solving problems, and improving my skills through hands-on experience, CTFs, and teamwork.
 
-## 🧠 Languages
+### 🧠 Languages
 
 <p align="left">
   <img src="images/C++.png" alt="C++" width="50"/>
@@ -12,7 +12,7 @@ Computer science student at Ain Shams University with a strong interest in cyber
   <img src="images/javascript.png" alt="JavaScript" width="50"/>
 </p>
 
-## 🛠 Tools
+### 🛠 Tools
 <p align="left">
   <img src="images/git.png" alt="Git" width="50"/>
   <img src="images/linux.png" alt="Linux" width="50"/>
