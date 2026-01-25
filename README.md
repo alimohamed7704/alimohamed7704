@@ -4,7 +4,7 @@ Computer science student at Ain Shams University with a strong interest in cyber
 ### 🤝Connect with me:
 
 <p align="left">
-  <a href="mailto:your.alimohamedali7704@gmail.com">
+  <a href="mailto:alimohamedali7704@gmail.com">
     <img src="images/Gmail.png" alt="Email" width="30"/>
   </a>
   
